@@ -26,7 +26,7 @@ The dataset is divided into three separate files:
    - Product ID  
    - Category  
    - Sub-Category
-
+   - Product Name  
 ## Business Questions Addressed
 
 ### Sales & Performance
@@ -49,4 +49,4 @@ The dataset is divided into three separate files:
 - How do shipping delays vary by region?
 - How does sales performance differ across shipping modes?
 
-   - Product Name  
+
